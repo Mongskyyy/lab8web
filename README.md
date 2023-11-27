@@ -65,7 +65,7 @@ if ($conn == false)
 ?>
 ```
 #### Buka melalui browser untuk menguji koneksi database untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah ```echo “koneksi berhasil”;```
-![gambar](web/1.png)
+![gambar](web/Screenshot%202023-11-27%20230705.png)
 ### Membuat file index untuk menampilkan data (Read)
 #### Buat file baru dengan nama ```index.php```
 ```python
